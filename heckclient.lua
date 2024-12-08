@@ -3789,7 +3789,7 @@ local function VHCKUS_fake_script() -- Fake Script: StarterGui.YARHM.Murder Myst
 				if sher then sherName = sher.Name end
 				local message = string.format([[Murderer: %s |
 	Sheriff: %s |
-	<<H3ck Clint Beta>>]], murdName, sherName)
+	(H3ck Client Beta)]], murdName, sherName)
 				textchannel:SendAsync(message)
 			end
 		end,}
